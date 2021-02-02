@@ -2,11 +2,17 @@
 
 ## Context
 
-1. 기본문법
+1. Basic
    1. 필수 기본 내장함수와 magic command
    2. 식별자
    3. 선언과 할당
    4. 값
+
+2. DataType
+   1. DataType의 분류.
+   2. 내장 Data type - 숫자형
+   3. 내장 Data type - 문자형
+   4. type, id 
 <br><br>
 
 ## Purpose
