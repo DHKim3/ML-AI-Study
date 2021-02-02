@@ -6,7 +6,7 @@
    1. 필수 기본 내장함수와 magic command
    2. 식별자
    3. 선언과 할당
-   4. 값
+   4. 문,표현식, 값
 
 2. DataType
    1. DataType의 분류.
