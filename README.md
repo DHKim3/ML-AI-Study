@@ -9,10 +9,12 @@
    4. 문,표현식, 값
 
 2. DataType
-   1. DataType의 분류.
-   2. 내장 Data type - 숫자형
-   3. 내장 Data type - 문자형
-   4. type, id 
+   1. DataType의 분류-1 (Container Type, Mutable Type)
+   2. DataType의 분류-2 (Sequence Type)
+   3. 내장(Built-in) Data type - 숫자형
+   4. 내장(Built-in) Data type - 문자형
+   5. type casting, corecion
+
 <br><br>
 
 ## Purpose
