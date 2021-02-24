@@ -13,7 +13,8 @@
    2. DataType의 분류-2 (Sequence Type)
    3. 내장(Built-in) Data type - 숫자형
    4. 내장(Built-in) Data type - 문자형
-   5. type casting, corecion
+   5. Container형 Datatype(list,tuple,dict,set)
+   6. Data type conversion(형 변환)
 
 <br><br>
 
