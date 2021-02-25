@@ -16,6 +16,11 @@
    5. Container형 Datatype(list,tuple,dict,set)
    6. Data type conversion(형 변환)
 
+3. Basic - 2
+    1. Compound statements(복합문) 개요
+    2. 제어문( if )
+
+    
 <br><br>
 
 ## Purpose
