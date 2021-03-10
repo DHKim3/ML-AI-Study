@@ -18,7 +18,10 @@
 
 3. Basic - 2
     1. Compound statements(복합문) 개요
-    2. 제어문( if )
+    2. 제어문( 표현식-연산(논리,비교,비트) , if문 )
+    3. 반복문( for, while)
+    4. Exception handling(try - catch)
+    5. Before function( pass, keyword check)
 
     
 <br><br>
@@ -28,8 +31,9 @@
 <br><br>
 
 ### 참고사항
-- python의 기본적인 문법은 다루지 않음.
+- python의 기초적인 문법은 다루지 않음.
 - [python 공식문서](https://docs.python.org/ko/3/)를 기본 자습서로 하여 작성되었음.
+- 참고자료 : 문용준,문성혁 ,'한권으로 개발자가 원하던 파이썬 심화 A to Z'
 <br><br>
 
 ### Environment
